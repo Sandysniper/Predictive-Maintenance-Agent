@@ -1,4 +1,7 @@
 streamlit
 crewai
 langchain_groq
-langchain.agents
+langchain
+chromadb
+pysqlite3-binary
+pandas
